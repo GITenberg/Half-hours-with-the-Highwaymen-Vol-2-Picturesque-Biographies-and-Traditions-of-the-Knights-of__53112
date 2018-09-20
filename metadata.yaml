@@ -1,0 +1,38 @@
+_repo: Half-hours-with-the-Highwaymen-Vol-2-Picturesque-Biographies-and-Traditions-of-the-Knights-of__53112
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hardy, Paul
+    alias: Hardy, David Paul Frederick
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '9890'
+    url: http://www.gutenberg.org/2009/agents/9890
+creator:
+  author:
+    agent_name: Harper, Charles G. (Charles George)
+    alias: Harper, C. G.
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '39133'
+    url: http://www.gutenberg.org/2009/agents/39133
+description: ''
+gutenberg_issued: '2016-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brigands and robbers'
+- !lcc 'HV'
+- !lcsh 'Criminals -- Great Britain'
+- !lcsh 'Crime -- Great Britain'
+- !lcsh 'Roads -- Great Britain'
+- !lcsh 'Great Britain -- Social life and customs'
+- GITenberg
+title: "Half-hours with the Highwaymen - Vol 2\r\nPicturesque Biographies and Traditions\
+  \ of the \"Knights of the Road\""
+url: http://www.gutenberg.org/ebooks/53112
